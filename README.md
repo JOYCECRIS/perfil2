@@ -12,6 +12,12 @@
 
 ###
 
-<h4 align="left">Meu nome é Joyce Guedes.<br>Estudo tecnologia desde o primeiro ano do ensino médio e, atualmente, estou no terceiro ano.<br>Estou aprendendo back-end e banco de dados. Já estudei front-end e JavaScript.</h4>
+<h4 align="left">Meu nome é Joyce Guedes.
+Estudo tecnologia desde o primeiro ano do Ensino Médio e, atualmente, estou cursando o terceiro ano.
+
+Tenho conhecimentos em desenvolvimento front-end, JavaScript, back-end e banco de dados. Atualmente, estou aprofundando meus estudos em back-end e modelagem de dados.
+
+Além da programação, tenho grande interesse por CSS e estilização de interfaces, área na qual gosto de explorar criatividade, design e experiência visual.
+</h4>
 
 ###
